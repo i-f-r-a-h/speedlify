@@ -1,7 +1,7 @@
 
 module.exports = {
-  name: 'ryangittings.co.uk',
-  description: "Ryan's Personal web site",
+  name: 'ifrahabdi.netlify.app',
+  description: "Ifrah's Portfolio 2021",
   urls: ['https://www.ryangittings.co.uk/', 'https://www.ryangittings.co.uk/services/', 'https://www.ryangittings.co.uk/work/', 'https://www.ryangittings.co.uk/about/', 'https://www.ryangittings.co.uk/contact/'],
   skip: false,
   options: {
