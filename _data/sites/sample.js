@@ -5,6 +5,6 @@ module.exports = {
 		frequency: 60 * 23, // (in minutes), 23 hours
 	},
 	urls: [
-		"https://www.ifrahabdi.netlify.app/"
+		"https://www.speedlify.dev/"
 	]
 };
