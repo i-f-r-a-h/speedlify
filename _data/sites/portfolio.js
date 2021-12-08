@@ -2,7 +2,7 @@
 module.exports = {
   name: 'ifrahabdi.netlify.app',
   description: "Ifrah's Portfolio 2021",
-  urls: ['https://ifrahabdi.netlify.app/about.html/','https://ifrahabdi.netlify.app/index.html/','https://www.ifrahabdi.netlify.app/contact.html/', 'https://ifrahabdi.netlify.app/blog.html/'],
+  urls: ['https://ifrahabdi.netlify.app'],
   skip: false,
   options: {
     frequency: 1,
