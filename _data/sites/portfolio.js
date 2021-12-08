@@ -11,9 +11,9 @@ module.exports = {
 	},
 	urls: [
 		"https://ifrahabdi.netlify.app/",
-		"https://ifrahabdi.netlify.app/about.html",
-		"https://ifrahabdi.netlify.app/blog.html",
-		"https://ifrahabdi.netlify.app/contact.html",
+		"https://ifrahabdi.netlify.app/about.html/",
+		"https://ifrahabdi.netlify.app/blog.html/",
+		"https://ifrahabdi.netlify.app/contact.html/",
 		"https://webhint.io/"
 	]
 };
